@@ -2,6 +2,8 @@
 ## Description
 Redirection for the development of an Ontology designed to represent Indonesian History. This project includes the data population and visualization of the knowledge graph. Development is part of research project under Universitas Indonesia.
 
+/app/ --> visualization application on the indonesian history data
+
 ## Maintainer
 Richie Christiansen Senlia
 richie.christiansen@ui.ac.id
